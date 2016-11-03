@@ -1,5 +1,5 @@
 # gnrxid
-Proyecto para la hackaton de DDHH contra el trata y trafico de personas.
+Proyecto para la hack de DDHH contra el trt y trfc de prsns.
 Frontend
 - HTML5
 - CSS3
